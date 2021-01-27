@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D7118CD-02C9-42D4-8E50-2BEDDCAD1ADB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9CDC9491-6C67-4F17-8479-0375A5357115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGallery.Web", "src\CarGallery.Web\CarGallery.Web.csproj", "{B76989C6-95F5-413E-95B9-4F78ECE28466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76989C6-95F5-413E-95B9-4F78ECE28466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76989C6-95F5-413E-95B9-4F78ECE28466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76989C6-95F5-413E-95B9-4F78ECE28466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76989C6-95F5-413E-95B9-4F78ECE28466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B76989C6-95F5-413E-95B9-4F78ECE28466} = {8D7118CD-02C9-42D4-8E50-2BEDDCAD1ADB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC6E2B7-868B-4492-A2CD-F5117689916B}
+	EndGlobalSection
+EndGlobal
